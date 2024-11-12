@@ -1,7 +1,1 @@
-"# crypto-trading-okx"  
-"# crypto-trading-okx" 
-"# crypto-trading-okx" 
-"# crypto-trading-okx" 
-"# crypto-trading-okx" 
-"# crypto-trading-okx" 
-"# crypto-trading-okx" 
+要記得安裝TA-Lib
