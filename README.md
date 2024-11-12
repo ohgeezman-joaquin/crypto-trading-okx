@@ -2,6 +2,7 @@
 # Crypto Trading Bot
 
 此專案是用於加密貨幣交易的自動化交易機器人，基於 Python 實現，包含資產查詢、交易決策、技術指標分析等功能。
+使用okx交易所 
 
 ## 專案結構
 
@@ -18,7 +19,7 @@
    ```bash
    pip install -r requirements.txt
    ```
-要記得安裝TA-Lib
+要記得安裝TA-Lib 如果有使用到的話
 
 ## 使用方法
 
