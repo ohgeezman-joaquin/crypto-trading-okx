@@ -19,17 +19,11 @@
 
 ## 安裝依賴項
 
-1. 建立並激活虛擬環境（可選）：
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # MacOS/Linux
-   venv\Scripts\activate     # Windows
-   ```
-
-2. 安裝所有依賴項：
+安裝所有依賴項：
    ```bash
    pip install -r requirements.txt
    ```
+要記得安裝TA-Lib
 
 ## 使用方法
 
